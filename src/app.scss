@@ -1,0 +1,26 @@
+$foobar: rgb(70, 137, 224);
+
+body {
+  height: 100%;
+  width: 100%;
+  background: green;
+}
+
+#root {
+  div {
+    padding-top: 5em;
+    background: $foobar;
+    height: 10em;
+    text-align: center;
+    h4 {
+      font-size: 2em;
+    }
+    a {
+      background: rgb(187, 63, 236);
+      padding: .5em;
+      border: 1px solid black;
+      margin: 1em;
+      user-select: none; 
+    }
+  }
+}
