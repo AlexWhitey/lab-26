@@ -1,4 +1,4 @@
 # lab-26
 Created with CodeSandbox
 
-./lab-26.jpg
+![UML](./lab-26.jpg)
