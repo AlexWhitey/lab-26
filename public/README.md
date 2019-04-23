@@ -12,4 +12,4 @@
 #### Documentation
 
 #### UML
-* [UML]()
+![UML](../lab-26.jpg)
